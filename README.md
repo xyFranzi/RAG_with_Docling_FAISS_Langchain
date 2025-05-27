@@ -1,4 +1,8 @@
-# Docling + FAISS + LangChain RAG
+# Docling + FAISS + LangChain RAG Assistant
+
+## Chatbot Version with Streamlit
+![ans1](pic/ans1.jpg)
+![ans2](pic/ans2.jpg)
 
 ## Example
 ### Question Input:
